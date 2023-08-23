@@ -1,0 +1,252 @@
+body{
+    align-items: center;
+    padding: 5px 500px 0px 500px;
+}
+/* Frame 1 */
+
+.Frame1{
+position: relative;
+width: 306.11px;
+height: 629px;
+
+background: #2C2C2C;
+border-radius: 29px;
+}
+
+.Rectangle_6{
+position: absolute;
+width: 280.11px;
+height: 597px;
+left: 13px;
+top: 16px;
+
+background: rgba(255, 255, 255, 0.5);
+border-radius: 29px;
+}
+
+.Rectangle_1{
+
+position: absolute;
+width: 73px;
+height: 34px;
+left: 31px;
+top: 56px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+
+.Rectangle_3{
+
+position: absolute;
+width: 73px;
+height: 34px;
+left: 31px;
+top: 546px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+}
+
+.Rectangle_5{
+
+position: absolute;
+width: 73px;
+height: 34px;
+left: 118px;
+top: 299px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.Rectangle_2 {
+
+position: absolute;
+width: 73px;
+height: 34px;
+left: 206px;
+top: 56px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.Rectangle_4{
+
+position: absolute;
+width: 73px;
+height: 34px;
+left: 206px;
+top: 546px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.Button_1{
+
+position: absolute;
+width: 57px;
+height: 18px;
+left: 39px;
+top: 64px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+/* identical to box height, or 112% */
+
+color: #000000;
+}
+
+
+.Button_2{
+
+position: absolute;
+width: 57px;
+height: 18px;
+left: 214px;
+top: 64px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+/* identical to box height, or 112% */
+
+color: #000000;
+}
+
+.Button_3{
+
+position: absolute;
+width: 57px;
+height: 18px;
+left: 126px;
+top: 307px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+/* identical to box height, or 112% */
+
+color: #000000;
+}
+
+
+.Button_5{
+
+position: absolute;
+width: 57px;
+height: 18px;
+left: 214px;
+top: 554px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+/* identical to box height, or 112% */
+
+color: #000000;
+}
+
+
+.Button_4{
+
+position: absolute;
+width: 57px;
+height: 18px;
+left: 39px;
+top: 554px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+/* identical to box height, or 112% */
+
+color: #000000;
+}
+
+.Group {
+position: absolute;
+width: 181px;
+height: 43.4px;
+left: 66px;
+top: 333px;
+}
+
+.Rectangle_7{
+position: absolute;
+width: 181px;
+height: 31.4px;
+left: 66px;
+top: 339px;
+
+
+background: #212121;
+border-radius: 3px;
+}
+
+.polygon{
+
+width: 0;
+height: 0;
+border-left: 6px solid transparent;
+border-right: 6px solid transparent;
+border-bottom: 8px solid #212121;
+position: absolute;
+left: 146px;
+top: 334px;
+align-items: center;
+}
+
+.Tooltip_Text{
+
+position: absolute;
+width: 161.35px;
+height: 24.7px;
+left: 75px;
+top: 348px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+text-align: center;
+padding: 3px,0px,3px,3px;
+gap: 1.68px;
+
+color: #FFFFFF;
+}
+
+.tooltiptext{
+    position: relative;
+    content: " ";
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
