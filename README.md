@@ -1,7 +1,5 @@
-<img src='C:\Users\vikas\OneDrive\Pictures\Screenshots'></img>
 
-
-
+![Screenshot 2023-08-23 173216](https://github.com/Vikas-hub17/Plotline/assets/72265502/a9a94064-9e61-4311-b9dd-ff95a4ea6b55)
 
 # Getting Started with Create React App
 
