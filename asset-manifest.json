@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/static/css/main.b4f72fb0.css",
+    "main.js": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/static/js/main.7d592530.js",
+    "static/js/787.7e25bc51.chunk.js": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/static/js/787.7e25bc51.chunk.js",
+    "index.html": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/index.html",
+    "main.b4f72fb0.css.map": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/static/css/main.b4f72fb0.css.map",
+    "main.7d592530.js.map": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/static/js/main.7d592530.js.map",
+    "787.7e25bc51.chunk.js.map": "/PLOTLINE-SDE-FRONTEND-ASSIGNMENT/static/js/787.7e25bc51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f72fb0.css",
+    "static/js/main.7d592530.js"
+  ]
+}
