@@ -1,3 +1,6 @@
+
+![Screenshot 2023-08-23 173651](https://github.com/Vikas-hub17/Plotline/assets/72265502/5ebcb2af-df80-41e9-8211-5c2fc35b1872)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
